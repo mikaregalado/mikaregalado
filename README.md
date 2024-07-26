@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikaregalado
 - 👀 I’m interested in drawing and coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML & CSS
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
